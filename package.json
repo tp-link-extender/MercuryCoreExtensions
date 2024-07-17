@@ -1,0 +1,23 @@
+{
+	"name": "mercurycoredevelopment",
+	"displayName": "Mercury Core development",
+	"description": "Development extensions for Mercury Core",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.91.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"biomejs.biome",
+		"matthewpi.caddyfile-support",
+		"ms-azuretools.vscode-docker",
+		"usernamehw.errorlens",
+		"eamodio.gitlens",
+		"golang.go-nightly",
+		"surrealdb.surrealql",
+		"svelte.svelte-vscode",
+		"antfu.unocss"
+	]
+}
